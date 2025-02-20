@@ -10,6 +10,8 @@ Currently only configured for my friend, but may restructure for other users in 
 
 My friend, Taylor, owns a sports cards business. Within his business, he submits cards for grading to PSA (Professional Sports Authenticator). Each card is graded on a scale from 1-10, depending on the quality of four main categories: centering, corners, edges, and surface condition. A higher numerical grade indicates a more prestine card. Thus, cards that receive higher grades are worth exponentially more than their raw (ungraded) value, however, cards that receive a low grade can decrease the value of the card. Additionally, there is a ~$20 fee to grade each card. Therefore, it is important to be selective when deciding which cards to submit. I created this dashboard to help Taylor use analytics to help guide his decision-making.
 
+This report is looking for trends in Head Coach Willard’s teams that have had success, in addition to, correlation between shooting splits/shares and making the sweet sixteen over the past 4 seasons. Data cleaning and transformation were done in Excel, while exploratory data analysis and correlation assessments were executed using Python. Distribution analysis, hypothesis testing, regression modeling, and data visualization were performed in Tableau to effectively present the findings. Graph annotations were added in Adobe Photoshop.
+
 ## Workflow
 1. Download the data for each submission from PSA. A submission is a group of cards submitted in the same order.
 2. Clean the data with a python script. Taylor allows other people to submit their cards in his orders. Therefore, the data was only used from his cards.
@@ -27,10 +29,3 @@ View the full PDF attached here:
 ##
 
 Created in October 2024
-
-
--------
-
-Date: September 2024
-
-Description: This report is looking for trends in Head Coach Willard’s teams that have had success, in addition to, correlation between shooting splits/shares and making the sweet sixteen over the past 4 seasons. Data cleaning and transformation were done in Excel, while exploratory data analysis and correlation assessments were executed using Python. Distribution analysis, hypothesis testing, regression modeling, and data visualization were performed in Tableau to effectively present the findings. Graph annotations were added in Adobe Photoshop.
