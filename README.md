@@ -1,14 +1,14 @@
 # maryland-basketball-report
 
-I developed a written report to analyzing the University of Maryland Basketball Team under the direction of head coach Kevin Willard. The purpose of the report was to seek trends in Willard's successful teams, as well as, find correlations between shooting splits/shares and reaching the Sweet 16 of the NCAA Tournament.
+I developed a written report to analyzing the University of Maryland Basketball Team under the direction of head coach Kevin Willard. The purpose of the report was to seek trends in Willard's successful teams, as well as, find correlation between shooting splits/shares and reaching the Sweet 16 of the NCAA Tournament.
 
 <img src="https://github.com/user-attachments/assets/bae9965d-ddf1-421a-8230-8cf000d5bd24" alt="PSA Grading Analytics Dashboard" width="1000">
 
 ## Motivation
 
-My friend, Taylor, owns a sports cards business. Within his business, he submits cards for grading to PSA (Professional Sports Authenticator). Each card is graded on a scale from 1-10, depending on the quality of four main categories: centering, corners, edges, and surface condition. A higher numerical grade indicates a more prestine card. Thus, cards that receive higher grades are worth exponentially more than their raw (ungraded) value, however, cards that receive a low grade can decrease the value of the card. Additionally, there is a ~$20 fee to grade each card. Therefore, it is important to be selective when deciding which cards to submit. I created this dashboard to help Taylor use analytics to help guide his decision-making.
+I have always loved College Basketball since I was a little kid growing up. This seemed like the perfect opportunity to improve my skills of exploratory data analysis and technical writing with something that I am very interested in. I really wanted to work with the University of Maryland basketball team, so I created this project trying to get my foot in the door after getting in contact with one of the assistant coaches. He had told me to create a project seeing "what Willard's teams has had success with in the past" and "what can help get us back to the Sweet 16". This was the result.
 
-This report is looking for trends in Head Coach Willard’s teams that have had success, in addition to, correlation between shooting splits/shares and making the sweet sixteen over the past 4 seasons. Data cleaning and transformation were done in Excel, while exploratory data analysis and correlation assessments were executed using Python. Distribution analysis, hypothesis testing, regression modeling, and data visualization were performed in Tableau to effectively present the findings. Graph annotations were added in Adobe Photoshop.
+The report is looking for trends in head coach Willard’s teams that have had success, in addition to, correlation between shooting splits/shares and making the Sweet 16 over the past 4 seasons.
 
 ## Workflow
 1. Download the data for each submission from PSA. A submission is a group of cards submitted in the same order.
