@@ -14,7 +14,7 @@ The report is looking for trends in head coach Willard’s teams that have had s
 
 ## Workflow
 1. Download the data.
-2. Data cleaning and transformation was executed in excel.
+2. Data cleaning and transformation was executed in excel and python.
 3. Exploratory data analysis was performed using python.
 4. Using Tableau, I created graphs visualizing distribution analysis and regression modeling.
 5. Annotated the graphs in Adobe Photoshop.
