@@ -3,6 +3,7 @@
 I developed a written report to analyzing the University of Maryland Basketball Team under the direction of head coach Kevin Willard. The purpose of the report was to seek trends in Willard's successful teams, as well as, find correlation between shooting splits/shares and reaching the Sweet 16 of the NCAA Tournament.
 
 <img width="713" alt="Screenshot 2025-02-20 at 2 48 58 PM" src="https://github.com/user-attachments/assets/1927df23-9051-4b2c-b713-ef066f02f34f" />
+
 (Full Report Attached Below)
 
 ## Motivation
