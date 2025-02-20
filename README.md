@@ -1,8 +1,6 @@
 # maryland-basketball-report
 
-I developed an interactive dashboard to optimize sports card submissions to PSA by using analytics to assess grading potential and maximize value while minimizing costs. Analytics were focused on the "Gem Rate" (percentage of cards that graded as a "gem") because these are the most profitable cards.
-
-Currently only configured for my friend, but may restructure for other users in the future.
+I developed a written report to analyzing the University of Maryland Basketball Team under the direction of head coach Kevin Willard. The purpose of the report was to seek trends in Willard's successful teams, as well as, find correlations between shooting splits/shares and reaching the Sweet 16 of the NCAA Tournament.
 
 <img src="https://github.com/user-attachments/assets/bae9965d-ddf1-421a-8230-8cf000d5bd24" alt="PSA Grading Analytics Dashboard" width="1000">
 
