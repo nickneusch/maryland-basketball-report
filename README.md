@@ -8,7 +8,7 @@ I developed a written report to analyzing the University of Maryland Basketball 
 
 ## Motivation
 
-I have always loved College Basketball since I was a little kid growing up. This seemed like the perfect opportunity to improve my skills of exploratory data analysis and technical writing with something that I am very interested in. I really wanted to work with the University of Maryland (my college) basketball team, so I created this project trying to get my foot in the door after getting in contact with one of the assistant coaches. He had told me to create a project seeing "what Willard's teams has had success with in the past" and "what can help get us back to the Sweet 16". This was the result.
+I have always loved College Basketball since I was a little kid going to Pitt and Duquesne games. This seemed like the perfect opportunity to improve my skills of exploratory data analysis and technical writing with something that I am very interested in. I really wanted to work with the University of Maryland (my college) basketball team, so I created this project trying to get my foot in the door after getting in contact with one of the assistant coaches. He had told me to create a project seeing "what Willard's teams has had success with in the past" and "what can help get us back to the Sweet 16". This was the result.
 
 The report is looking for trends in head coach Willard’s teams that have had success, in addition to, correlation between shooting splits/shares and making the Sweet 16 over the past 4 seasons.
 
