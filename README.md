@@ -4,6 +4,9 @@ I developed a written report to analyzing the University of Maryland Basketball 
 
 <img src="https://github.com/user-attachments/assets/bae9965d-ddf1-421a-8230-8cf000d5bd24" alt="PSA Grading Analytics Dashboard" width="1000">
 
+<img width="713" alt="Screenshot 2025-02-20 at 2 48 58 PM" src="https://github.com/user-attachments/assets/1927df23-9051-4b2c-b713-ef066f02f34f" />
+
+
 ## Motivation
 
 I have always loved College Basketball since I was a little kid growing up. This seemed like the perfect opportunity to improve my skills of exploratory data analysis and technical writing with something that I am very interested in. I really wanted to work with the University of Maryland basketball team, so I created this project trying to get my foot in the door after getting in contact with one of the assistant coaches. He had told me to create a project seeing "what Willard's teams has had success with in the past" and "what can help get us back to the Sweet 16". This was the result.
