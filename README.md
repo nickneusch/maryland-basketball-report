@@ -20,7 +20,7 @@ My friend, Taylor, owns a sports cards business. Within his business, he submits
 
 ### View the PDF
 
-View the pdf attached here:
+View the PDF attached here:
 [Data Analysis Report on Maryland Basketball.pdf](https://github.com/user-attachments/files/18887262/Data.Analysis.Report.on.Maryland.Basketball.pdf)
 
 
