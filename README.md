@@ -8,15 +8,17 @@ I developed a written report to analyzing the University of Maryland Basketball 
 
 ## Motivation
 
-I have always loved College Basketball since I was a little kid growing up. This seemed like the perfect opportunity to improve my skills of exploratory data analysis and technical writing with something that I am very interested in. I really wanted to work with the University of Maryland basketball team, so I created this project trying to get my foot in the door after getting in contact with one of the assistant coaches. He had told me to create a project seeing "what Willard's teams has had success with in the past" and "what can help get us back to the Sweet 16". This was the result.
+I have always loved College Basketball since I was a little kid growing up. This seemed like the perfect opportunity to improve my skills of exploratory data analysis and technical writing with something that I am very interested in. I really wanted to work with the University of Maryland (my college) basketball team, so I created this project trying to get my foot in the door after getting in contact with one of the assistant coaches. He had told me to create a project seeing "what Willard's teams has had success with in the past" and "what can help get us back to the Sweet 16". This was the result.
 
 The report is looking for trends in head coach Willard’s teams that have had success, in addition to, correlation between shooting splits/shares and making the Sweet 16 over the past 4 seasons.
 
 ## Workflow
-1. Download the data for each submission from PSA. A submission is a group of cards submitted in the same order.
-2. Clean the data with a python script. Taylor allows other people to submit their cards in his orders. Therefore, the data was only used from his cards.
-3. Process the data with a python script. The data downloaded from PSA lists the card description, but does not distinguish its qualities seperately (ex. 2020 PANINI SELECT 61 JUSTIN JEFFERSON DIE-CUT PURPLE PRIZM). The description was parsed to extract the year, brand, card number, variation/parallel, and player name.
-4. Import the data into Tableau to create an interactive dashboard. Analytics were focused on the "gem rate" (percentage of cards that graded as a "gem") because these are the most profitable cards. Data was analyzed by gem rate vs. order number, brands, parallels, sports, and players. Filters were added to introduce new perspectives of the data. Filters include order number, brand, year, parallel, and player name.
+1. Download the data.
+2. Data cleaning and transformation was executed in excel.
+3. Exploratory data analysis was performed using python.
+4. Using Tableau, I created graphs visualizing distribution analysis and regression modeling.
+5. Annotated the graphs in Adobe Photoshop.
+6. Developed a written report to communicate my findings in a way that the coaches will understand.
 
 ##
 
