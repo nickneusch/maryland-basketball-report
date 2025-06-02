@@ -4,12 +4,12 @@ I developed a quantitative analysis research report analyzing the University of 
 
 <img width="713" alt="Screenshot 2025-02-20 at 2 48 58 PM" src="https://github.com/user-attachments/assets/1927df23-9051-4b2c-b713-ef066f02f34f" />
 
-##
-
 ### View Report
 
 View the full PDF attached here:
 [Data Analysis Report on Maryland Basketball.pdf](https://github.com/user-attachments/files/18887262/Data.Analysis.Report.on.Maryland.Basketball.pdf)
+
+##
 
 ## Motivation
 
